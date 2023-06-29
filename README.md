@@ -1,2 +1,2 @@
 # PSPGameInstaller
-Select Game And It Installs It To Your PSP!!!
+That App Installs The Selected Game To PSP
