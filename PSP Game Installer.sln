@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSP Game Installer", "PSP Game Installer\PSP Game Installer.csproj", "{B04F75C2-FB76-4416-87C6-C066A0CC56E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B04F75C2-FB76-4416-87C6-C066A0CC56E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04F75C2-FB76-4416-87C6-C066A0CC56E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B04F75C2-FB76-4416-87C6-C066A0CC56E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B04F75C2-FB76-4416-87C6-C066A0CC56E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDB36565-C9D5-47B8-85C8-F13E1D54B390}
+	EndGlobalSection
+EndGlobal

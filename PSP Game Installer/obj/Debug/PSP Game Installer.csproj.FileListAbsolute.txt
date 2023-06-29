@@ -1,0 +1,11 @@
+C:\Users\Krystian\Desktop\PSP Game Installer\PSP Game Installer\bin\Debug\PSP Game Installer.exe.config
+C:\Users\Krystian\Desktop\PSP Game Installer\PSP Game Installer\bin\Debug\PSP Game Installer.exe
+C:\Users\Krystian\Desktop\PSP Game Installer\PSP Game Installer\bin\Debug\PSP Game Installer.pdb
+C:\Users\Krystian\Desktop\PSP Game Installer\PSP Game Installer\obj\Debug\PSP Game Installer.csproj.AssemblyReference.cache
+C:\Users\Krystian\Desktop\PSP Game Installer\PSP Game Installer\obj\Debug\PSP Game Installer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Krystian\Desktop\PSP Game Installer\PSP Game Installer\obj\Debug\PSP_Game_Installer.Form1.resources
+C:\Users\Krystian\Desktop\PSP Game Installer\PSP Game Installer\obj\Debug\PSP_Game_Installer.Properties.Resources.resources
+C:\Users\Krystian\Desktop\PSP Game Installer\PSP Game Installer\obj\Debug\PSP Game Installer.csproj.GenerateResource.cache
+C:\Users\Krystian\Desktop\PSP Game Installer\PSP Game Installer\obj\Debug\PSP Game Installer.csproj.CoreCompileInputs.cache
+C:\Users\Krystian\Desktop\PSP Game Installer\PSP Game Installer\obj\Debug\PSP Game Installer.exe
+C:\Users\Krystian\Desktop\PSP Game Installer\PSP Game Installer\obj\Debug\PSP Game Installer.pdb
